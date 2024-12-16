@@ -45,7 +45,7 @@ The design of the protocol emphasizes three things in descending priority:
 The protocol specification defines semantics around:
 
 - How clients connect to servers.
-- How they negotiate a connection an start a session.
+- How they negotiate a connection and start a session.
 - How messages in a session are serialized and deserialized.
   - Dealing with message retransmission and deduplication.
 
